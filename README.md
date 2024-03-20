@@ -10,4 +10,11 @@ Repository ini dibuat sebagai tempat untuk menyimpan dan mengelola hasil tugas y
 
 Kursus pemrograman web dasar dari Dicoding.com dirancang untuk memperkenalkan peserta pada konsep-konsep dasar dalam membangun sebuah website. Materi yang diajarkan meliputi HTML, CSS, dan JavaScript.
 
-Untuk informasi lebih lanjut tentang kursus ini, kunjungi [Dicoding.com](https://www.dicoding.com/).
+Untuk informasi lebih lanjut tentang kursus, kunjungi [Dicoding.com](https://www.dicoding.com/).
+
+## GitHub Dicoding Academy
+
+Untuk melihat lebih banyak kursus dan proyek dari Dicoding Academy, kunjungi [GitHub Dicoding Academy](https://github.com/dicodingacademy).
+
+---
+Dibuat oleh Juli Endah Lestari
