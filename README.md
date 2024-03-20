@@ -1,4 +1,4 @@
-# Repository Tugas Proyek Kursus Pemrograman Web Dasar Dicoding
+# Tugas Proyek Kursus Pemrograman Web Dasar Dicoding
 
 Repository ini dibuat oleh Juli Endah Lestari untuk menyimpan hasil tugas untuk proyek yang ada dalam kursus pemrograman web dasar dari Dicoding.
 
